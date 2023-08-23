@@ -1,0 +1,160 @@
+body{
+    color: 40514E;
+    margin: 0;
+    text-align: center;
+    font-size: 1em;
+}
+.font{ 
+    margin-top: 4rem;
+    font-size: 3rem;
+    font-family: 'Sacramento', cursive;
+    color: #11999e
+}
+
+
+
+.top-container{
+    background-color: rgb(146, 214, 214);
+    position: relative;
+    padding-top: 60px;
+}
+
+.middle-container{
+    margin: 20px 0;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 20px 0 20px;
+}
+
+
+a{
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+.copyright{
+    color: #ffffff;
+    font-size: 0.91rem;
+}
+
+
+h1{
+    color: #11999e;
+}
+
+.pro{
+    text-decoration: underline;
+    color: #11999e;
+}
+
+h2{
+    color: #11999e;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-size: 1,655rem;
+    color: #11999e;
+}
+
+
+hr{
+    border: dotted #51bdbd 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+
+.top-cloud{
+position: absolute;
+right: 150px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 150px;
+    bottom: 300px;
+}
+ .mountain{
+ color: aliceblue;
+}
+.anime{
+    border-radius: 100%;
+    width: 10%;
+    height: auto;
+}
+ .idea-img{
+    border-radius: 100%;
+    width: 20%;
+    height: auto;
+    float: left;
+    margin-right: 30px;
+}
+.code-img{
+    border-radius: 100%;
+    width: 20%;
+    height: auto; 
+    float: right;
+    margin-left: 5px;
+}
+.icons{
+    border-radius: 100%;
+    width: 20%;
+    height: auto;
+    text-align: left;
+    margin: auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 60px auto 100px;
+    text-align: left;
+}
+
+
+.error{
+    position: relative;
+    top: 50px;
+}
+
+
+.contact-massage{
+    width: 70%;
+    margin: 40px auto 60px;
+}
+
+ 
+
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #0a7aa3 5%, #408c99 100%);
+	background-color:#0a7aa3;
+	border-radius:24px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	padding:10px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+    margin-bottom:20px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #0a7aa3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
